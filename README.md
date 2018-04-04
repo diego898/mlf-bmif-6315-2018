@@ -13,6 +13,7 @@ Due to Github space constraints lectures can be found at this [Google Drive link
 
 # Resources
 
+* [On Expressiveness and Optimization in Deep Learning - Nadav Cohen](https://www.youtube.com/watch?v=F079b2dwcAg) - The talk we discussed at the end of Lecture 2 (watch the first 20 minutes or so)
 * [Mathematics for Machine Learning](https://mml-book.github.io/) - Free textbook published online
 * [Foundations of Data Science: Computational Thinking with Python](https://www.edx.org/course/foundations-data-science-computational-uc-berkeleyx-data8-1x) - Berkeley course on edX
 * [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) - Google course
