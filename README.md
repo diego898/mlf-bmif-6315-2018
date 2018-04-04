@@ -10,3 +10,9 @@ Due to Github space constraints lectures can be found at this [Google Drive link
 
 * using the [Binder](http://mybinder.org/) hosting service by clicking here: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/diego898/mlf-bmif-6315-2018/master)
 * uploading all files in this repository to Google's new [Colaboratory Notebook Service](colab.research.google.com/)
+
+# Resources
+
+* [Mathematics for Machine Learning](https://mml-book.github.io/) - Free textbook published online
+* [Foundations of Data Science: Computational Thinking with Python](https://www.edx.org/course/foundations-data-science-computational-uc-berkeleyx-data8-1x) - Berkeley course on edX
+* [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) - Google course
