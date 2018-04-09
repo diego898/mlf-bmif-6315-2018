@@ -13,6 +13,8 @@ Due to Github space constraints lectures can be found at this [Google Drive link
 
 # Resources
 
+* [Counterintuitive Properties of High Dimensional Space](https://marckhoury.github.io/counterintuitive-properties-of-high-dimensional-space/) - A great explanation of the curse of dimensionality
+* [There’s Plenty of Room in the Corners](https://beta.observablehq.com/@tophtucker/theres-plenty-of-room-in-the-corners) - A great **interactive** explanation of the curse of dimensionality
 * [On Expressiveness and Optimization in Deep Learning - Nadav Cohen](https://www.youtube.com/watch?v=F079b2dwcAg) - The talk we discussed at the end of Lecture 2 (watch the first 20 minutes or so)
 * [Mathematics for Machine Learning](https://mml-book.github.io/) - Free textbook published online
 * [Foundations of Data Science: Computational Thinking with Python](https://www.edx.org/course/foundations-data-science-computational-uc-berkeleyx-data8-1x) - Berkeley course on edX
