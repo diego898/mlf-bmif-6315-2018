@@ -23,6 +23,10 @@ Due to Github space constraints lectures can be found at this [Google Drive link
 
 * [Bayesian Seminar Series](https://github.com/AllenDowney/BayesSeminar) by [Allen Downey](http://www.allendowney.com/wp/) - code and slides to a couple of seminars he gave.
 
+* [A Concrete Introduction to Probability (using Python)](https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb) - Notebook by Peter Norvig
+
+* [Probability, Paradox, and the Reasonable Person Principle)](https://github.com/norvig/pytudes/blob/master/ipynb/ProbabilityParadox.ipynb) - Notebook by Peter Norvig
+
 * [Counterintuitive Properties of High Dimensional Space](https://marckhoury.github.io/counterintuitive-properties-of-high-dimensional-space/) - A great explanation of the curse of dimensionality
 
 * [There’s Plenty of Room in the Corners](https://beta.observablehq.com/@tophtucker/theres-plenty-of-room-in-the-corners) - A great **interactive** explanation of the curse of dimensionality
