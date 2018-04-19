@@ -13,9 +13,24 @@ Due to Github space constraints lectures can be found at this [Google Drive link
 
 # Resources
 
+* **Think Bayes - 1st edition** by [Allen Downey](http://www.allendowney.com/wp/) - [book](http://greenteapress.com/wp/think-bayes/), [code repository for 1st edition](https://github.com/AllenDowney/ThinkBayes) which contains all latex and python code/notebooks accompanying the book. **Note**: This book can be [read online](http://www.greenteapress.com/thinkbayes/html/index.html) and [downloaded](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf) for **free**! There is also a [code repository for the 2nd edition](https://github.com/AllenDowney/ThinkBayes2), which is ahead of the book.
+
+* **Think Stats - 2nd edition** by [Allen Downey](http://www.allendowney.com/wp/) - [book](http://greenteapress.com/wp/think-stats-2e/) and [code repository](https://github.com/AllenDowney/ThinkStats2) which contains all latex and python code/notebooks accompanying the book. **Note**: This book can be [read online](http://greenteapress.com/thinkstats2/html/index.html) and [downloaded](http://greenteapress.com/thinkstats2/thinkstats2.pdf) for **free**!. There is also a smaller [code repository](https://github.com/AllenDowney/CompStats) for the 1st edition, (see the [tutorial file](https://github.com/AllenDowney/CompStats/blob/master/tutorial.md) for helpful information on this repo).
+
+* **Think Python - 2nd edition** by [Allen Downey](http://www.allendowney.com/wp/) - [book](http://greenteapress.com/wp/think-python-2e/) and [code repository](https://github.com/AllenDowney/ThinkPython2) which contains all latex and python code/notebooks accompanying the book. **Note**: This book can be [read online](http://greenteapress.com/thinkpython2/html/index.html) and [downloaded](http://greenteapress.com/thinkpython2/thinkpython2.pdf) for **free**!
+
+* [Bayes for Undergrads Workshop](https://github.com/AllenDowney/BayesForUndergrads) - by [Allen Downey](http://www.allendowney.com/wp/) - Materials for a workshop on developing undergraduate classes on Bayesian statistics. 
+
+* [Bayesian Seminar Series](https://github.com/AllenDowney/BayesSeminar) by [Allen Downey](http://www.allendowney.com/wp/) - code and slides to a couple of seminars he gave.
+
 * [Counterintuitive Properties of High Dimensional Space](https://marckhoury.github.io/counterintuitive-properties-of-high-dimensional-space/) - A great explanation of the curse of dimensionality
+
 * [There’s Plenty of Room in the Corners](https://beta.observablehq.com/@tophtucker/theres-plenty-of-room-in-the-corners) - A great **interactive** explanation of the curse of dimensionality
+
 * [On Expressiveness and Optimization in Deep Learning - Nadav Cohen](https://www.youtube.com/watch?v=F079b2dwcAg) - The talk we discussed at the end of Lecture 2 (watch the first 20 minutes or so)
+
 * [Mathematics for Machine Learning](https://mml-book.github.io/) - Free textbook published online
+
 * [Foundations of Data Science: Computational Thinking with Python](https://www.edx.org/course/foundations-data-science-computational-uc-berkeleyx-data8-1x) - Berkeley course on edX
+
 * [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) - Google course
