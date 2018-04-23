@@ -13,6 +13,10 @@ Due to Github space constraints lectures can be found at this [Google Drive link
 
 # Resources
 
+* [Artificial Intelligence — The Revolution Hasn’t Happened Yet](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7) - Great article by statistician Michael Jordan about the current state of AI.
+
+* [Mythbusters: Deep Learning Edition](http://www.mit.edu/~rakhlin/papers/myths.pdf) - Nice talk by Sasha Rakhlin about "myths" of Deep Learning. Nice citations. 
+
 * [The Limitations of Deep Learning](https://blog.keras.io/the-limitations-of-deep-learning.html) and [The Future of Deep Learning](https://blog.keras.io/the-future-of-deep-learning.html) - Great reflection pieces by François Chollet, the author of Keras. 
 
 * [Theories of Deep Learning](https://stats385.github.io/) - Great course taught at Stanford (STATS 385) which seeks to build **theoretical frameworks deriving deep networks as consequences**. Lecture material and video lectures are available online.  
