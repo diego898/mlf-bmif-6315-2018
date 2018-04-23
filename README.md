@@ -13,6 +13,14 @@ Due to Github space constraints lectures can be found at this [Google Drive link
 
 # Resources
 
+* [The Limitations of Deep Learning](https://blog.keras.io/the-limitations-of-deep-learning.html) and [The Future of Deep Learning](https://blog.keras.io/the-future-of-deep-learning.html) - Great reflection pieces by François Chollet, the author of Keras. 
+
+* [Theories of Deep Learning](https://stats385.github.io/) - Great course taught at Stanford (STATS 385) which seeks to build **theoretical frameworks deriving deep networks as consequences**. Lecture material and video lectures are available online.  
+
+* [Massive Computational Experiments, Painlessly](https://stats285.github.io/) - Great course taught at Stanford (STATS 285) which provides lectures and assignments online. 
+
+* [Learning From Data Online Course](https://work.caltech.edu/telecourse.html) -  Delivered by the author of the textbook this short-course was based off. Homeworks, and video recorded lectures are available online. 
+
 * **Think Bayes - 1st edition** by [Allen Downey](http://www.allendowney.com/wp/) - [book](http://greenteapress.com/wp/think-bayes/), [code repository for 1st edition](https://github.com/AllenDowney/ThinkBayes) which contains all latex and python code/notebooks accompanying the book. **Note**: This book can be [read online](http://www.greenteapress.com/thinkbayes/html/index.html) and [downloaded](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf) for **free**! There is also a [code repository for the 2nd edition](https://github.com/AllenDowney/ThinkBayes2), which is ahead of the book.
 
 * **Think Stats - 2nd edition** by [Allen Downey](http://www.allendowney.com/wp/) - [book](http://greenteapress.com/wp/think-stats-2e/) and [code repository](https://github.com/AllenDowney/ThinkStats2) which contains all latex and python code/notebooks accompanying the book. **Note**: This book can be [read online](http://greenteapress.com/thinkstats2/html/index.html) and [downloaded](http://greenteapress.com/thinkstats2/thinkstats2.pdf) for **free**!. There is also a smaller [code repository](https://github.com/AllenDowney/CompStats) for the 1st edition, (see the [tutorial file](https://github.com/AllenDowney/CompStats/blob/master/tutorial.md) for helpful information on this repo).
